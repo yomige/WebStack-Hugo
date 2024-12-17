@@ -43,6 +43,10 @@
       url: https://chatgpt.com/
       logo: ChatGPT.svg
       description: chat.openai.com
+    - title: 通义千问
+      url: https://tongyi.aliyun.com/
+      logo: Tongyi-Qianwen.svg
+      description: tongyi.ai
     - title: 语雀
       logo: yuque.svg
       url: https://www.yuque.com/
